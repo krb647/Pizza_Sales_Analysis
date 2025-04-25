@@ -1,6 +1,6 @@
 # 🍕 Pizza Sales Analysis using Excel & SQL
 
-An end-to-end sales analysis project for a fictional pizza company. This dashboard-driven report analyzes patterns in revenue, sales volume, peak hours, top performers, and customer behavior using **Excel (Pivot Tables, Charts, Dashboards)** and **SQL** for deeper querying.
+An end-to-end sales analysis project for a pizza company. This dashboard-driven report analyzes patterns in revenue, sales volume, peak hours, top performers, and customer behavior using **Excel (Pivot Tables, Charts, Dashboards)** and **SQL** for deeper querying.
 
 ---
 
@@ -53,7 +53,6 @@ An end-to-end sales analysis project for a fictional pizza company. This dashboa
 
 ## 📊 Dashboard Preview
 
-> _Paste your Excel dashboard screenshot in the repo and add the image like this:_
-
 ```markdown
-![Pizza Sales Dashboard](./assets/dashboard.png)
+![image](https://github.com/user-attachments/assets/0dbfe44b-9c20-4213-9f47-a051b18500c9)
+
