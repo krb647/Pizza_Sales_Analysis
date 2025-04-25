@@ -53,9 +53,8 @@ An end-to-end sales analysis project for a pizza company. This dashboard-driven 
 
 ## 📊 Dashboard Preview
 
-```markdown
-![Pizza Sales Dashboard](dashboard.png)
-```
+![Pizza Sales Dashboard](https://github.com/krb647/Pizza_Sales_Analysis/blob/main/dashboard_image.png?raw=true)
+
 
 ## Conclusion
 This project highlights how Excel and SQL can uncover key business insights, helping improve decision-making in the food and beverage industry. It demonstrates the value of data-driven analysis in understanding sales trends, customer behavior, and product performance.
